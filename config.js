@@ -4,7 +4,7 @@
  */
 const CONFIG = {
   meta: {
-    title: '腾小飞 · 个人名片',
+    title: '小波 · 个人名片',
     description:
       '腾小飞 — 复旦大学腾飞书院工科学生个人名片：简介、技能与兴趣、科研、竞赛、实习与社会实践。',
     lang: 'zh-CN'
@@ -12,8 +12,8 @@ const CONFIG = {
 
   /** 顶栏与页脚文案 */
   site: {
-    headerName: '腾小飞',
-    footerName: '腾小飞',
+    headerName: '小波',
+    footerName: '小波',
     footerOrg: '复旦大学腾飞书院',
     footerNote: '本页为 github.io 静态部署教程示例 · 左右滑动或方向键切换'
   },
@@ -40,13 +40,13 @@ const CONFIG = {
   profile: {
     greetingLead: '你好，我是',
     /** 首页大标题里渐变显示的名字 */
-    displayName: '腾小飞',
+    displayName: '小波',
     locationLine: '复旦大学腾飞书院',
     intro: '工科学生一枚；本页是 GitHub Pages 静态个人名片的示例，展示简介与经历片段。',
     quote: '「永远在腾飞路上！」',
     /** 头像：可把图片放到 assets/ 下，例如 assets/avatar.jpg */
     avatar: 'assets/秘书处_线条.png',
-    avatarAlt: '腾小飞',
+    avatarAlt: '小波',
     aboutTitle: 'About Me',
     /** 右侧「关于我」列表；有 href 时渲染为链接 */
     aboutRows: [
@@ -59,7 +59,7 @@ const CONFIG = {
       },
       {
         label: '联系方式',
-        value: 'tengfeimsc@163.com',
+        value: 'tengfeimsc@163.com'，
         href: 'mailto:tengfeimsc@163.com'
       }
     ]
